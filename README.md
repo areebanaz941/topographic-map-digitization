@@ -50,9 +50,22 @@ This project aims to automate the digitization process of geographical maps by:
 ### Shapefile Creation:
 - The extracted features are stored as a `GeoDataFrame` and exported to an ESRI shapefile format.
 
-## How to Run the Project
-### Prerequisites
-- **Python 3.7** or higher
-- Libraries listed in `requirements.txt`:
-```bash
-pip install numpy matplotlib scikit-image geopandas shapely pillow
+## Results
+- After running the script, you'll see a visual representation of the digitized map with different features like settlements, open areas, water bodies, and road networks, along with the saved shapefile for GIS usage.
+
+### Study Area:
+![image](https://github.com/user-attachments/assets/2964fa7c-7c5a-4afd-a4bc-dfe5065daddb)
+
+![image](https://github.com/user-attachments/assets/65869018-b86a-49e2-871d-07b9d0291bd5)
+
+![image](https://github.com/user-attachments/assets/9b408d7b-9c73-4c4d-9328-7cd7728704a4)
+
+![image](https://github.com/user-attachments/assets/dad68fa0-1b13-45e4-844b-664fef90fcc6)
+
+### Digitized Maps
+
+![image](https://github.com/user-attachments/assets/08ffef4d-6012-4d79-81e1-4348cc0a17b7)
+
+![image](https://github.com/user-attachments/assets/26b1b841-480d-47e6-bf04-013810eb65a2)
+
+
